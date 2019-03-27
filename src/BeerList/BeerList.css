@@ -1,0 +1,17 @@
+.beerImage{
+    height: 150px;
+    width: 80px;
+}
+
+.favIcon{
+    height: 20px;
+    width: 20px;
+}
+
+.beerName{
+    color: black;
+}
+
+.beerDesc{
+    color: gray;
+}

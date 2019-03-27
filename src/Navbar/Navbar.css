@@ -1,0 +1,11 @@
+.customNav{
+    background-color: #00D8B7;
+}
+
+.customNavHeading{
+    color: white;
+}
+
+a.active{
+    color: darkcyan;
+}
